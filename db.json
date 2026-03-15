@@ -1,50 +1,53 @@
 [
-  {
-    "id": 101,
-    "name": "Nguyễn Văn An",
-    "email": "an.nguyen@example.com",
-    "phone": "0901234567",
-    "avatar": "https://i.pravatar.cc/150?u=101",
-    "dateOfBirth": "1995-05-20T08:30:00Z"
-  },
-  {
-    "id": 102,
-    "name": "Trần Thị Bình",
-    "email": "binh.tran@example.com",
-    "phone": "0912345678",
-    "avatar": null,
-    "dateOfBirth": "1998-11-12T14:20:00Z"
-  },
-  {
-    "id": 103,
-    "name": "Lê Hoàng Cường",
-    "email": "cuong.le@example.com",
-    "phone": "0987654321",
-    "avatar": null,
-    "dateOfBirth": "1990-01-05T00:00:00Z"
-  },
-  {
-    "id": 104,
-    "name": "Phạm Minh Đức",
-    "email": "duc.pham@example.com",
-    "phone": "0945556677",
-    "avatar": "https://i.pravatar.cc/150?u=104",
-    "dateOfBirth": "1993-07-15T09:00:00Z"
-  },
-  {
-    "id": 105,
-    "name": "Vũ Thu Thảo",
-    "email": "thao.vu@example.com",
-    "phone": "0933444555",
-    "avatar": "https://i.pravatar.cc/150?u=105",
-    "dateOfBirth": "2000-12-25T16:45:00Z"
-  },
-  {
-    "id": 106,
-    "name": "Đặng Quốc Khánh",
-    "email": "khanh.dang@example.com",
-    "phone": "0866777888",
-    "avatar": "https://i.pravatar.cc/150?u=106",
-    "dateOfBirth": "1988-03-10T11:15:00Z"
-  }
+  "users":
+  [
+    {
+      "id": 101,
+      "name": "Nguyễn Văn An",
+      "email": "an.nguyen@example.com",
+      "phone": "0901234567",
+      "avatar": "https://i.pravatar.cc/150?u=101",
+      "dateOfBirth": "1995-05-20T08:30:00Z"
+    },
+    {
+      "id": 102,
+      "name": "Trần Thị Bình",
+      "email": "binh.tran@example.com",
+      "phone": "0912345678",
+      "avatar": null,
+      "dateOfBirth": "1998-11-12T14:20:00Z"
+    },
+    {
+      "id": 103,
+      "name": "Lê Hoàng Cường",
+      "email": "cuong.le@example.com",
+      "phone": "0987654321",
+      "avatar": null,
+      "dateOfBirth": "1990-01-05T00:00:00Z"
+    },
+    {
+      "id": 104,
+      "name": "Phạm Minh Đức",
+      "email": "duc.pham@example.com",
+      "phone": "0945556677",
+      "avatar": "https://i.pravatar.cc/150?u=104",
+      "dateOfBirth": "1993-07-15T09:00:00Z"
+    },
+    {
+      "id": 105,
+      "name": "Vũ Thu Thảo",
+      "email": "thao.vu@example.com",
+      "phone": "0933444555",
+      "avatar": "https://i.pravatar.cc/150?u=105",
+      "dateOfBirth": "2000-12-25T16:45:00Z"
+    },
+    {
+      "id": 106,
+      "name": "Đặng Quốc Khánh",
+      "email": "khanh.dang@example.com",
+      "phone": "0866777888",
+      "avatar": "https://i.pravatar.cc/150?u=106",
+      "dateOfBirth": "1988-03-10T11:15:00Z"
+    }
+  ]
 ]
