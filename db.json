@@ -50,61 +50,59 @@
     }
   ],
   "accounts": [
-    [
-  {
-    "id": 1,
-    "userId": 101,
-    "username": "an.nguyen95",
-    "password": "hashed_password_101",
-    "status": "active",
-    "loginAt": "2024-03-15T08:30:00Z",
-    "createdAt": "2023-01-10T10:00:00Z"
-  },
-  {
-    "id": 2,
-    "userId": 102,
-    "username": "binh.tran98",
-    "password": "hashed_password_102",
-    "status": "active",
-    "loginAt": "2024-03-16T14:20:00Z",
-    "createdAt": "2023-02-15T11:00:00Z"
-  },
-  {
-    "id": 3,
-    "userId": 103,
-    "username": "cuong.le90",
-    "password": "hashed_password_103",
-    "status": "inactive",
-    "loginAt": "2024-02-01T09:00:00Z",
-    "createdAt": "2022-12-05T08:30:00Z"
-  },
-  {
-    "id": 4,
-    "userId": 104,
-    "username": "duc.pham93",
-    "password": "hashed_password_104",
-    "status": "active",
-    "loginAt": "2024-03-10T11:15:00Z",
-    "createdAt": "2023-05-20T09:00:00Z"
-  },
-  {
-    "id": 5,
-    "userId": 105,
-    "username": "thao.vu2000",
-    "password": "hashed_password_105",
-    "status": "active",
-    "loginAt": "2024-03-16T16:45:00Z",
-    "createdAt": "2024-01-01T12:00:00Z"
-  },
-  {
-    "id": 6,
-    "userId": 106,
-    "username": "khanh.dang88",
-    "password": "hashed_password_106",
-    "status": "inactive",
-    "loginAt": "2023-12-25T10:00:00Z",
-    "createdAt": "2022-06-15T14:00:00Z"
-  }
-]
-  ] 
+    {
+      "id": 1,
+      "userId": 101,
+      "username": "an.nguyen95",
+      "password": "hashed_password_101",
+      "status": "active",
+      "loginAt": "2024-03-15T08:30:00Z",
+      "createdAt": "2023-01-10T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "userId": 102,
+      "username": "binh.tran98",
+      "password": "hashed_password_102",
+      "status": "active",
+      "loginAt": "2024-03-16T14:20:00Z",
+      "createdAt": "2023-02-15T11:00:00Z"
+    },
+    {
+      "id": 3,
+      "userId": 103,
+      "username": "cuong.le90",
+      "password": "hashed_password_103",
+      "status": "inactive",
+      "loginAt": "2024-02-01T09:00:00Z",
+      "createdAt": "2022-12-05T08:30:00Z"
+    },
+    {
+      "id": 4,
+      "userId": 104,
+      "username": "duc.pham93",
+      "password": "hashed_password_104",
+      "status": "active",
+      "loginAt": "2024-03-10T11:15:00Z",
+      "createdAt": "2023-05-20T09:00:00Z"
+    },
+    {
+      "id": 5,
+      "userId": 105,
+      "username": "thao.vu2000",
+      "password": "hashed_password_105",
+      "status": "active",
+      "loginAt": "2024-03-16T16:45:00Z",
+      "createdAt": "2024-01-01T12:00:00Z"
+    },
+    {
+      "id": 6,
+      "userId": 106,
+      "username": "khanh.dang88",
+      "password": "hashed_password_106",
+      "status": "inactive",
+      "loginAt": "2023-12-25T10:00:00Z",
+      "createdAt": "2022-06-15T14:00:00Z"
+    }
+  ]
 }
