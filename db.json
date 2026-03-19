@@ -1,108 +1,22 @@
-{
-  "users": [
-    {
-      "id": 101,
-      "name": "Nguyễn Văn An",
-      "email": "an.nguyen@example.com",
-      "phone": "0901234567",
-      "avatar": "https://i.pravatar.cc/150?u=101",
-      "dateOfBirth": "1995-05-20T08:30:00Z"
-    },
-    {
-      "id": 102,
-      "name": "Trần Thị Bình",
-      "email": "binh.tran@example.com",
-      "phone": "0912345678",
-      "avatar": "https://i.pravatar.cc/150?u=102",
-      "dateOfBirth": "1998-11-12T14:20:00Z"
-    },
-    {
-      "id": 103,
-      "name": "Lê Hoàng Cường",
-      "email": "cuong.le@example.com",
-      "phone": "0987654321",
-      "avatar": "https://i.pravatar.cc/150?u=103",
-      "dateOfBirth": "1990-01-05T00:00:00Z"
-    },
-    {
-      "id": 104,
-      "name": "Phạm Minh Đức",
-      "email": "duc.pham@example.com",
-      "phone": "0945556677",
-      "avatar": "https://i.pravatar.cc/150?u=104",
-      "dateOfBirth": "1993-07-15T09:00:00Z"
-    },
-    {
-      "id": 105,
-      "name": "Vũ Thu Thảo",
-      "email": "thao.vu@example.com",
-      "phone": "0933444555",
-      "avatar": "https://i.pravatar.cc/150?u=105",
-      "dateOfBirth": "2000-12-25T16:45:00Z"
-    },
-    {
-      "id": 106,
-      "name": "Đặng Quốc Khánh",
-      "email": "khanh.dang@example.com",
-      "phone": "0866777888",
-      "avatar": "https://i.pravatar.cc/150?u=106",
-      "dateOfBirth": "1988-03-10T11:15:00Z"
-    }
-  ],
-  "accounts": [
-    {
-      "id": 1,
-      "userId": 101,
-      "username": "an.nguyen95",
-      "password": "hashed_password_101",
-      "status": "active",
-      "lastLogin": "2024-03-15T08:30:00Z",
-      "createdAt": "2023-01-10T10:00:00Z"
-    },
-    {
-      "id": 2,
-      "userId": 102,
-      "username": "binh.tran98",
-      "password": "hashed_password_102",
-      "status": "active",
-      "lastLogin": "2024-03-16T14:20:00Z",
-      "createdAt": "2023-02-15T11:00:00Z"
-    },
-    {
-      "id": 3,
-      "userId": 103,
-      "username": "cuong.le90",
-      "password": "hashed_password_103",
-      "status": "inactive",
-      "lastLogin": "2024-02-01T09:00:00Z",
-      "createdAt": "2022-12-05T08:30:00Z"
-    },
-    {
-      "id": 4,
-      "userId": 104,
-      "username": "duc.pham93",
-      "password": "hashed_password_104",
-      "status": "active",
-      "lastLogin": "2024-03-10T11:15:00Z",
-      "createdAt": "2023-05-20T09:00:00Z"
-    },
-    {
-      "id": 5,
-      "userId": 105,
-      "username": "thao.vu2000",
-      "password": "hashed_password_105",
-      "status": "active",
-      "lastLogin": "2024-03-16T16:45:00Z",
-      "createdAt": "2024-01-01T12:00:00Z"
-    },
-    {
-      "id": 6,
-      "userId": 106,
-      "username": "khanh.dang88",
-      "password": "hashed_password_106",
-      "status": "inactive",
-      "lastLogin": "2023-12-25T10:00:00Z",
-      "createdAt": "2022-06-15T14:00:00Z"
-    }
+[
+    "Cows have best friends and can become stressed when they are separated.",
+    "Honey never spoils. It can last for centuries without going bad.",
+    "A group of owls is called a parliament.",
+    "Bananas are berries, but strawberries aren't.",
+    "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion.",
+    "The average person laughs about 15 times a day.",
+    "A single cloud can weigh as much as 1 million pounds.",
+    "Your taste buds have a lifespan of about 10 to 14 days.",
+    "The longest recorded hiccuping lasted for 68 years!",
+    "Bees can recognize human faces.",
+    "The world's largest desert is Antarctica.",
+    "A day on Venus is longer than a year on Venus.",
+    "Butterflies taste with their feet.",
+    "The dot over the letter 'i' is called a tittle.",
+    "A group of flamingos is called a 'flamboyance.'",
+    "The shortest war in history was between Britain and Zanzibar, lasting only 38 minutes.",
+    "The smell of freshly-cut grass is actually a plant distress call.",
+    "Elephants are the only animals that can't jump.",
+    "There are more possible iterations of a game of chess than there are atoms in the observable universe.",
+    "The world's oldest toy is a stick, according to archaeological finds.",
   ]
-}
